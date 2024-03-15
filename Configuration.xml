@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Config>
+  <Option Name="ConfigVersion" Type="Int" Value="122000" />
+  <Option Name="LatestVersionUsed" Type="Int" Value="122000" />
+  <Option Name="PreviousAutoCheckForUpdates" Type="Int" Value="19401" />
+  <Group Name="FormPos">
+    <Group Name="MainWindow">
+      <Option Name="Height" Type="Int" Value="587" />
+      <Option Name="Left" Type="Int" Value="0" />
+      <Option Name="MaximizeCenterX" Type="Int" Value="638" />
+      <Option Name="MaximizeCenterY" Type="Int" Value="386" />
+      <Option Name="Maximized" Type="Bool" Value="1" />
+      <Option Name="Top" Type="Int" Value="0" />
+      <Option Name="Width" Type="Int" Value="1028" />
+    </Group>
+  </Group>
+  <Group Name="LicenseAccepted">
+    <Option Name="12.20.0.Pro" Type="Bool" Value="1" />
+    <Option Name="12.3.0.Pro" Type="Bool" Value="1" />
+    <Option Name="12.9.0.Pro" Type="Bool" Value="1" />
+  </Group>
+</Config>
